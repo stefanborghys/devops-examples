@@ -44,8 +44,23 @@ Git Large File Storage: [git-lfs.github.com](https://git-lfs.github.com)
 
 ### GitHub LFS
 
-GitHub allows LFS. To use it follow the steps provided in the documentation.  
-Versioning large files: [docs.github.com/en/github/managing-large-files/versioning-large-files](https://docs.github.com/en/github/managing-large-files/versioning-large-files)
+GitHub allows LFS. To use it, follow the steps provided in the documentation.  
+- versioning large files: [docs.github.com/en/github/managing-large-files/versioning-large-files](https://docs.github.com/en/github/managing-large-files/versioning-large-files)  
+
+Steps to follow:
+1. track a file for LFS
+   - `git lfs track "*.psd"`
+2. add & commit the file
+   - `git add path/to/file.psd`
+   - `git commit -m "Adding large file ..."`
+3. add & commit the projects `.gitattributes` file,  
+   created or altered when tracking a file for LFS
+   - `git add .gitattributes`
+   - `git commit -m "Adding the gitattributes"`
+4. push the commits
+   - `git push`
+
+source: configuring Git Large File Storage: [docs.github.com/en/github/managing-large-files/versioning-large-files/configuring-git-large-file-storage](https://docs.github.com/en/github/managing-large-files/versioning-large-files/configuring-git-large-file-storage)
 
 ### IntelliJ LFS
 
