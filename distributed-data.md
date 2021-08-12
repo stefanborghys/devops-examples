@@ -12,7 +12,7 @@
 | :------- | :---------- | -------: |
 | RabbitMQ | Open source message broker | [rabbitmq.com](https://www.rabbitmq.com) |
 
-## Message broker
+## Data distributor
 
 | Software | Description | Website  |
 | :------- | :---------- | -------: |
