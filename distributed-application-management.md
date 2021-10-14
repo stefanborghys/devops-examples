@@ -2,6 +2,6 @@
 
 ## Service Mesh
 
-| Software | Description                                           | Website                      |
-| :------- | :---------------------------------------------------- | :--------------------------- |
-| Istio    | Open source service mesh for distributed applications | [istio.io](https://istio.io) |
+| Software | Description                                           | Website          |
+| :------- | :---------------------------------------------------- | :--------------- |
+| Istio    | Open source service mesh for distributed applications | https://istio.io |
