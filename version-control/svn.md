@@ -3,7 +3,11 @@
 Apache Subversion: https://subversion.apache.org/  
 Subversion is an open source version control system.
 
-SVN Quick Guide: https://www.tutorialspoint.com/svn/svn_quick_guide.htm
+SVN Quick Guide: https://www.tutorialspoint.com/svn/svn_quick_guide.htm  
+Version Control with Subversion: 
+- https://svnbook.red-bean.com  
+- https://svnbook.red-bean.com/en/1.7/index.html  
+- https://svnbook.red-bean.com/en/1.7/svn-book.html  
 
 ## Client
 
@@ -15,7 +19,13 @@ SVN Quick Guide: https://www.tutorialspoint.com/svn/svn_quick_guide.htm
 
 ### Merge
 
+Basic Merging: https://svnbook.red-bean.com/en/1.7/svn.branchmerge.basicmerging.html
+
 `svn merge --reintegrate https://svn.companyname.be/projectname/branches/2.0.0_Refactoring/`
+
+### Delete Branch
+
+`svn delete -m "Verwijderen branch" https://svn.companyname.be/projectname/branches/2.0.0_Refactoring/`
 
 ## Errors
 
