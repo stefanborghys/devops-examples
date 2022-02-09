@@ -17,6 +17,20 @@ Version Control with Subversion:
 
 ## Commands
 
+### Create Branch
+
+Creating a branch using the local `trunk` to copy from:
+```
+svn copy trunk branches/branch-name
+
+cd branches
+svn status 
+svn commit -m "Creating new branch x"
+```
+> Warning! local incommitted changes on trunk will be copied.  
+> Make sure only commit necessary changes.
+
+
 ### Merge
 
 Basic Merging: https://svnbook.red-bean.com/en/1.7/svn.branchmerge.basicmerging.html
