@@ -17,3 +17,4 @@
 | Software   | Description                                                      | Website                 |
 | :--------- | :--------------------------------------------------------------- | ----------------------: |
 | pgAdmin    | Open source administration & development platform for PostgreSQL | https://www.pgadmin.org |
+| pgBadger   | PostgreSQL log analyzer                                          | https://pgbadger.darold.net |
