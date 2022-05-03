@@ -67,3 +67,9 @@ source: configuring Git Large File Storage: [docs.github.com/en/github/managing-
 Pushing large files, even after LFS configuration takes an endless time using IntelliJ.  
 I managed to resolve this by simply using the terminal and command: `git push`.    
 Which even shows a nice upload progress indication for free 👍.
+
+## Tools
+
+| Software | Description    | Website  |
+| :------- | :------------- | -------: |
+| GitUp    | Git interface  | https://github.com/git-up/GitUp |
