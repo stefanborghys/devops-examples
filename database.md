@@ -6,6 +6,12 @@
 | :------- | :------------------------------- | ---------------: |
 | Redis    | Open source in memory data store | https://redis.io |
 
+## Key Value
+
+| Software | Description                      | Website                           |
+| :------- | :------------------------------- | --------------------------------: |
+| LevelDB  | Fast key-value storage library   | https://github.com/google/leveldb |
+
 ## Relational
 
 | Software   | Description                            | Website                          |
