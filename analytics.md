@@ -16,3 +16,4 @@
 | Fathom      | GDPR, CCPA, ePrivacy, PECR, ... compliant analytics tool | https://usefathom.com |
 | Simple Analytics | No cookies. GDPR, CCPA and PECR compliant | https://simpleanalytics.com |
 | Splitbee    | analytics & conversion platform | https://splitbee.io |
+| Snowplow    | Behavioral Data Platform | https://snowplowanalytics.com |
