@@ -11,19 +11,19 @@
 
 #### Server
 
-| Software | Description    | Website  |
-| :------- | :------------- | -------: |
+| Software | Description                     | Website              |
+| :------- | :------------------------------ | -------------------: |
 | OpenLDAP | Open Source LDAP implementation | https://openldap.org |
 
 #### Client
 
-| Software | Description    | Website  |
-| :------- | :------------- | -------: |
-| JXplorer | Java LDAP browser | http://jxplorer.org |
+| Software                | Description                                   | Website                             |
+| :---------------------- | :-------------------------------------------- | ----------------------------------: |
+| JXplorer                | Java LDAP browser                             | http://jxplorer.org                 |
 | Apache Directory Studio | Eclipse-based LDAP browser & directory client | https://directory.apache.org/studio |
 
 ## Encryption
 
-| Software | Description    | Website  |
-| :------- | :------------- | -------: |
+| Software | Description                                              | Website                 |
+| :------- | :------------------------------------------------------- | ----------------------: |
 | OpenSSH  | Connectivity tool for remote login with the SSH protocol | https://www.openssh.com |
