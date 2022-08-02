@@ -27,3 +27,10 @@
 | Software | Description                                              | Website                 |
 | :------- | :------------------------------------------------------- | ----------------------: |
 | OpenSSH  | Connectivity tool for remote login with the SSH protocol | https://www.openssh.com |
+
+
+## Sandbox
+
+| Software  | Description                                               | Website                    |
+| :-------- | :-------------------------------------------------------- | -------------------------: |
+| Sandboxie | Isolation software for 32- & 64-bit Windows NT-based OS's | https://sandboxie-plus.com |
