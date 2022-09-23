@@ -12,3 +12,9 @@
 | :---------- | :----------------------------- | ----------------------: |
 | PfSense     | Open source network security   | https://www.pfsense.org |
 | OPNSense    | Open source network security   | https://opnsense.org    |
+
+## DNS
+
+| Service | Description                                 | Website                               |
+| :------ | :------------------------------------------ | ------------------------------------: |
+| Unbound | Validating, recursive, caching DNS resolver | https://nlnetlabs.nl/projects/unbound |
