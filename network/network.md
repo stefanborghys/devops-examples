@@ -13,6 +13,12 @@
 | PfSense     | Open source network security   | https://www.pfsense.org |
 | OPNSense    | Open source network security   | https://opnsense.org    |
 
+## Firewall
+
+| Service | Description          | Website                |
+| :------ | :------------------- | ---------------------: |
+| IP Fire | Open source firewall | https://www.ipfire.org |
+
 ## DNS
 
 | Service | Description                                 | Website                               |
